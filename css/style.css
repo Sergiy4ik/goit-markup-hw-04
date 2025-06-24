@@ -216,7 +216,8 @@ ul {
 }
 
 .solutions-list-icon svg {
-
+    width: 64px;
+    height: 64px;
 }
 
 .solutions-text {
