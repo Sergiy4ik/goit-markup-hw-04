@@ -204,7 +204,13 @@ ul {
     overflow: hidden;
 }
     
-
+.solutions-list-icon {
+    display: flex;
+    border-radius: 4px;
+    fill: #f4f4fd;
+    stroke-width: 1px;
+    stroke: #8e8f99;
+}
 
 .solutions-text {
     font-weight: 500;
