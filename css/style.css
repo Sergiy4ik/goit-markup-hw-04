@@ -143,9 +143,12 @@ ul {
 .hero-page {
     background-color: #2e2f42;
     padding: 188px 0;
-    background-image: url("C:\Users\38097\OneDrive\Desktop\Projects\goit-markup-hw-04\images\people-office.jpg");
+    background-image:linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)) url("C:\Users\38097\OneDrive\Desktop\Projects\goit-markup-hw-04\images\people-office.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    max-width: 1440px;
+
 }
 
 .hero-page-title {
@@ -173,6 +176,7 @@ ul {
     border: none;
     border-radius: 4px;
     margin: 0 auto;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .hero-page-button:hover {
