@@ -206,10 +206,17 @@ ul {
     
 .solutions-list-icon {
     display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
     border-radius: 4px;
-    fill: #f4f4fd;
-    stroke-width: 1px;
-    stroke: #8e8f99;
+    background-color: #f4f4fd;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
+}
+
+.solutions-list-icon svg {
+
 }
 
 .solutions-text {
