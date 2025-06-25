@@ -307,11 +307,16 @@ ul {
     gap: 24px;
 }
 
-.team-icon-svg-list-item {
+.team-icon-svg-list {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 24px;
+}
+
+.team-icon-svg-list-item {
+    width: 40px;
+    height: 40px;
 }
 
 .portfolio {
