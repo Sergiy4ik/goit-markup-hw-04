@@ -300,17 +300,10 @@ ul {
     color: #434455;
 }
 
-.team-icon-svg-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 24px;
-}
 
 .team-icon-svg-list {
     display: flex;
     justify-content: center;
-    align-items: center;
     gap: 24px;
 }
 
