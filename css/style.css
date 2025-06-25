@@ -368,7 +368,7 @@ ul {
     overflow: hidden;
 }
 
-.portfolio-list-translate p {
+.portfolio-list-translate p:hover {
     transform: translateY(0%);
 }
 
