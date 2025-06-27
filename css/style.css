@@ -389,18 +389,6 @@ ul {
 
 .description-back {
     transform: translateY(0);
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: #4d5ae5;
-    color: #f4f4fd;
-    padding-top: 45px;
-    padding-left: 32px;
-    letter-spacing: 0.02em;
-    transform: translateY(100%);
-    transition: transform 250ms ease-in-out;
 }
 
 .portfolio-description-container {
